@@ -37,9 +37,9 @@ A sleek web application that lets you search for any GitHub user and view their 
 
 ## 📸 Screenshots
 
-    ![alt text](image.png)
-    ![alt text](image-1.png)
-    ![alt text](image-2.png)
+    <img width="1865" height="1010" alt="image" src="https://github.com/user-attachments/assets/f8cfb1e7-54f1-45a8-b1e9-feeebd92c946" />
+    <img width="1833" height="1010" alt="image" src="https://github.com/user-attachments/assets/fcbf7337-4d7d-43ff-9199-6c1a1b4a9a35" />
+    <img width="1231" height="835" alt="image" src="https://github.com/user-attachments/assets/1ea5cd76-b5b3-4d1e-823f-54ec07789b98" />
 
 ---
 
@@ -58,3 +58,4 @@ A sleek web application that lets you search for any GitHub user and view their 
 Frontend Developer | Passionate about building interactive web applications  
 
 ---
+
