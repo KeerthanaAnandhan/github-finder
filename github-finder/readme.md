@@ -58,4 +58,3 @@ A sleek web application that lets you search for any GitHub user and view their 
 Frontend Developer | Passionate about building interactive web applications  
 
 ---
-
